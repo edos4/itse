@@ -1,0 +1,2 @@
+# lazcripts
+Celebrating laziness.
